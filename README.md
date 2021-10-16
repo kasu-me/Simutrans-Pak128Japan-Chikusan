@@ -61,3 +61,7 @@ Pak128Japanの産業チェーンに「肉」を追加するための基本セッ
 
 # ライセンス
 他作者様の作品については他作者様の定めたライセンスに準じます。
+
+# 連絡先
+* Twitter…@KasumiTrans
+* Mail…morooka@kasu.me
