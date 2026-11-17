@@ -74,6 +74,9 @@ Range=10
 #InputCapacity[0]=300
 #InputSupplier[0]=1
 #InputFactor[0]=200
+InputGood[0]=chikusan_kusa
+InputCapacity[0]=1000
+InputFactor[0]=100
 OutputGood[0]=chikusan_ushi
 OutputCapacity[0]=200
 OutputFactor[0]=200
@@ -354,6 +357,22 @@ InputCapacity[5]=200
 InputSupplier[5]=1
 InputFactor[5]=100
 
+InputGood[6]=chikusan_pork
+InputCapacity[6]=200
+InputFactor[6]=100
+
+InputGood[7]=chikusan_chicken
+InputCapacity[7]=200
+InputFactor[7]=100
+
+InputGood[8]=processed_fish12
+InputCapacity[8]=100
+InputFactor[8]=100
+
+InputGood[9]=seasoning3
+InputCapacity[9]=50
+InputFactor[9]=30
+
 
 MapColor=101
 dims=2,2,4
@@ -428,6 +447,22 @@ InputCapacity[5]=200
 InputSupplier[5]=1
 InputFactor[5]=100
 
+InputGood[6]=chikusan_pork
+InputCapacity[6]=200
+InputFactor[6]=100
+
+InputGood[7]=chikusan_chicken
+InputCapacity[7]=200
+InputFactor[7]=100
+
+InputGood[8]=processed_fish12
+InputCapacity[8]=100
+InputFactor[8]=100
+
+InputGood[9]=seasoning3
+InputCapacity[9]=50
+InputFactor[9]=30
+
 
 MapColor=101
 dims=3,3,1
@@ -485,7 +520,7 @@ copyright=ooboke
 name=OBK_bulk_truck_esa
 waytype=road
 freight=chikusan_kusa
-payload=12
+payload=1000
 engine_type=diesel
 speed=80
 cost=4450000
