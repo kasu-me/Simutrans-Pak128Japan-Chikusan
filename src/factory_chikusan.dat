@@ -591,14 +591,6 @@ InputGood[7]=chikusan_chicken
 InputCapacity[7]=200
 InputFactor[7]=100
 
-InputGood[8]=processed_fish12
-InputCapacity[8]=100
-InputFactor[8]=100
-
-InputGood[9]=seasoning3
-InputCapacity[9]=50
-InputFactor[9]=30
-
 
 MapColor=101
 dims=2,2,4
@@ -680,14 +672,6 @@ InputFactor[6]=100
 InputGood[7]=chikusan_chicken
 InputCapacity[7]=200
 InputFactor[7]=100
-
-InputGood[8]=processed_fish12
-InputCapacity[8]=100
-InputFactor[8]=100
-
-InputGood[9]=seasoning3
-InputCapacity[9]=50
-InputFactor[9]=30
 
 
 MapColor=101
